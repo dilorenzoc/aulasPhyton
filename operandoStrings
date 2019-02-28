@@ -1,0 +1,11 @@
+a = 'amanha nao e sexta'
+b = 'k'
+
+g = b in a
+print (g)
+
+x = 'camila'
+print (x)
+print (x[0])
+j = len (x)
+print (j)
