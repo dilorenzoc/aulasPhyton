@@ -34,7 +34,7 @@ print ('-------------------------------')
 copias = (s1 + s2 + s3) * 10
 print (copias)
 valorCop = len(copias)
-ptMedio = valorCop/2
+ptMedio = valorCop//2
 copias[ptMedio]
 
 print ('-------------------------------')
