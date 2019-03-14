@@ -31,3 +31,5 @@ print(indice)
 lst.remove(minimo)
 lst.sort()
 print(lst)
+'''descobrindo o tipo da variavel'''
+print(type(lst))
