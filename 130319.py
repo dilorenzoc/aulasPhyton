@@ -29,4 +29,3 @@ animais.remove('alce')
 print(animais)
 animais.sort()
 print(animais)
-vaores
