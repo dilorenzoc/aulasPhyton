@@ -1,4 +1,4 @@
-'''escreva as expressoes em phyton'''
+'''escreva as expressoes em python'''
 '''s1=carro s2=moto bmw s3=aviao'''
 '''a) 'ot' esta em s1, s2, s3?'''
 '''b) em quais das strings existem espaços em branco?'''
